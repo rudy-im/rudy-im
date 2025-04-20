@@ -3,6 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-im)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<img src="[https://your-image-url.com/banner.png](https://thumbs.dreamstime.com/b/curved-red-banner-ribbon-flat-vector-design-white-isolated-216494194.jpg)" alt="banner" style="width:100%; background-color:white;" />
+
 Check out my <a href="https://rudy-im.github.io/web-portfolio/">current project</a>!!
 
 <h3 align="left">Connect with me:</h3>

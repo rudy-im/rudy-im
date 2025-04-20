@@ -3,7 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy-im)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<h3 align="left">Contact Info:</h3>
+<p align="left">
+  ✉ <b>Email: </b>rudy.im@outlook.com<br>
+  💎 <b>LinkedIn: </b><a href="https://www.linkedin.com/in/rudy-im/">https://www.linkedin.com/in/rudy-im/</a>
+</p>
 
+<br>
 
 <h3 align="left">Projects:</h3>
 <p align="left">
@@ -29,7 +35,7 @@
   💿 <b>Database: </b>SQLite, PostgreSQL<br>
   💼 <b>Development Tools: </b>Unity, Android Studio<br>
   🩺 <b>QA: </b>MochaChai<br>
-  🎲 <b>3D: </b>Maya, Blender, Motionbuilder, Substance Painter/Designer, ZBrush, SpeedTree<br>
-  🎨 <b>Graphics: </b>Photoshop, Illustrator, After Effects, Figma<br>
   🛠 <b>Robotics: </b>C, Matlab, Arduino, Raspberry Pi, Creo<br>
+  🎲 <b>3D: </b>Maya, Blender, Substance Painter/Designer, ZBrush, SpeedTree, Motionbuilder<br>
+  🎨 <b>Graphics: </b>Photoshop, Illustrator, After Effects, Figma<br>
 </p>

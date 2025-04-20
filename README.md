@@ -6,7 +6,8 @@
 <h3 align="left">Contact Info:</h3>
 <p align="left">
   ✉ <b>Email: </b>rudy.im@outlook.com<br>
-  💎 <b>LinkedIn: </b><a href="https://www.linkedin.com/in/rudy-im/">https://www.linkedin.com/in/rudy-im/</a>
+  💎 <b>LinkedIn: </b><a href="https://www.linkedin.com/in/rudy-im/">https://www.linkedin.com/in/rudy-im/</a><br>
+  📋 <b>Resume: </b><a href="resume_Woobin (Rudy) Im.pdf">Download</a><br>
 </p>
 
 <br>

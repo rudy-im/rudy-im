@@ -36,6 +36,7 @@
   💿 <b>Database: </b>SQLite, PostgreSQL<br>
   💼 <b>Development Tools: </b>Unity, Android Studio<br>
   🩺 <b>QA: </b>MochaChai<br>
+  🔒 <b>Cyber Security: </b>Yara<br>
   🛠 <b>Robotics: </b>C, Matlab, Arduino, Raspberry Pi, Creo<br>
   🎲 <b>3D: </b>Maya, Blender, Substance Painter/Designer, ZBrush, SpeedTree, Motionbuilder<br>
   🎨 <b>Graphics: </b>Photoshop, Illustrator, After Effects, Figma<br>

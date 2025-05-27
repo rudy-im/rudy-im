@@ -49,4 +49,6 @@
   Please consider that the green square seems not counting:<br>
   &nbsp;&nbsp;Commit from Gitpod<br>
   &nbsp;&nbsp;Commit from Git Bash<br>
+  <br>
+  Also informed that there is way to manipulate it. You can easily find it by web searching.
 </p>

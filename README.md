@@ -41,3 +41,10 @@
   🎲 <b>3D: </b>Maya, Blender, Substance Painter/Designer, ZBrush, SpeedTree, Motionbuilder<br>
   🎨 <b>Graphics: </b>Photoshop, Illustrator, After Effects, Figma<br>
 </p>
+
+<h4>About the green squares...</h4>
+<p align="left">
+  Please consider that the green square seems not counting:
+  &nbsp;&nbsp;Commit from Gitpod
+  &nbsp;&nbsp;Commit from Git Bash
+</p>

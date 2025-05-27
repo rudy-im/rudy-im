@@ -44,9 +44,9 @@
 
 <br>
 
-<h3>About the green squares...</h3>
+<h3>About the green squares...🟩</h3>
 <p align="left">
-  Please consider that the green square seems not counting:
-  &nbsp;&nbsp;Commit from Gitpod
-  &nbsp;&nbsp;Commit from Git Bash
+  Please consider that the green square seems not counting:<br>
+  &nbsp;&nbsp;Commit from Gitpod<br>
+  &nbsp;&nbsp;Commit from Git Bash<br>
 </p>
